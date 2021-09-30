@@ -1,0 +1,14 @@
+{
+  "name": "logseq-created-property",
+  "version": "1.0.0",
+  "description": "Adds created property for each block",
+  "main": "index.html",
+  "author": "Nikhil Warke<nwarke@protonmail.com>",
+  "license": "MIT",
+  "logseq": {
+    "id": "nwarke-created-property"
+  },
+  "dependencies": {
+    "fecha": "^4.2.1"
+  }
+}
